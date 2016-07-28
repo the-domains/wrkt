@@ -1,0 +1,14 @@
+layout_spectrum: 0.4188995254226029
+typography_spectrum: 0.6415292627643794
+color:
+  brandStrength: 0.8158376538194716
+  lightness: 0.5267654897179455
+  saturation: 0.7778500677086413
+  rhythmicContrast: 0.7315642868634313
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: WRKT
